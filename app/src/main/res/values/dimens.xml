@@ -1,0 +1,115 @@
+<resources>
+
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="app_bar_height_home">255dp</dimen>
+    <dimen name="app_bar_height_deals">255dp</dimen>
+    <dimen name="app_bar_height_profile">205dp</dimen>
+    <dimen name="activity_cta_height">48dp</dimen>
+    <dimen name="activity_cta_height_2x">96dp</dimen>
+    <dimen name="button_height_small">36dp</dimen>
+
+    <!-- Loader -->
+    <dimen name="progress_loader_smaller">12dp</dimen>
+    <dimen name="progress_loader_small">16dp</dimen>
+    <dimen name="progress_loader_large">24dp</dimen>
+
+    <!--Space-->
+    <dimen name="space_largest">48dp</dimen>
+    <dimen name="space_larger">32dp</dimen>
+    <dimen name="space_large">24dp</dimen>
+    <dimen name="space_base">16dp</dimen>
+    <dimen name="space_medium">12dp</dimen>
+    <dimen name="space_small">8dp</dimen>
+    <dimen name="space_smaller">4dp</dimen>
+    <dimen name="space_smallest">2dp</dimen>
+    <dimen name="space_zero">0dp</dimen>
+
+    <!--Margin-->
+    <dimen name="item_top_margin">8dp</dimen>
+    <dimen name="date_margin">12dp</dimen>
+
+    <!--Text-->
+    <dimen name="text_headline">24sp</dimen>
+    <dimen name="text_header">22sp</dimen>
+    <dimen name="text_largest">20sp</dimen>
+    <dimen name="text_larger">18sp</dimen>
+    <dimen name="text_large">16sp</dimen>
+    <dimen name="text_regular">14sp</dimen>
+    <dimen name="text_small">12sp</dimen>
+    <dimen name="text_smaller">10sp</dimen>
+    <dimen name="text_smallest">10sp</dimen>
+
+    <!--Separators-->
+    <dimen name="separator_larger">4dp</dimen>
+    <dimen name="separator_large">2dp</dimen>
+    <dimen name="separator">1dp</dimen>
+    <dimen name="separator_small">0.5dp</dimen>
+    <dimen name="separator_smaller">0.2dp</dimen>
+    <!--<dimen name="text_title_with_bold">20sp</dimen>-->
+    <!--<dimen name="text_title_calendar">18sp</dimen>-->
+    <!--<dimen name="text_subheading">16sp</dimen>-->
+    <!--<dimen name="text_body">14sp</dimen>-->
+    <!--<dimen name="text_caption">12sp</dimen>-->
+    <!--<dimen name="text_button">14sp</dimen>-->
+
+    <!--Corners-->
+    <dimen name="corner_largest">12dp</dimen>
+    <dimen name="corner_larger">10dp</dimen>
+    <dimen name="corner_large">8dp</dimen>
+    <dimen name="corner_small">4dp</dimen>
+    <dimen name="corner_card">2dp</dimen>
+    <dimen name="corner_default">2dp</dimen>
+    <dimen name="corner_zero">0dp</dimen>
+    <dimen name="corner_button_round">22dp</dimen>
+
+    <!--Elevation-->
+    <dimen name="elevation_zero">0dp</dimen>
+    <dimen name="elevation_min">2dp</dimen>
+    <dimen name="elevation">4dp</dimen>
+    <dimen name="elevation_max">8dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="text_margin">16dp</dimen>
+    <dimen name="image_profile">76dp</dimen>
+
+
+    <!--<dimen name="separatorDimen">0.7dp</dimen>-->
+    <!--<dimen name="separatorSmallestDimen">0.2dp</dimen>-->
+
+    <!--<dimen name="strokeWidth">0.8dp</dimen>-->
+    <!--<dimen name="strokeCornerRadius">2dp</dimen>-->
+    <!--<dimen name="tab_layout_height">64dp</dimen>-->
+    <!--<dimen name="default_elevation">3dp</dimen>-->
+    <!--<dimen name="button_corner_radius">30dp</dimen>-->
+    <!--<dimen name="elevation_toolbar">4dp</dimen>-->
+    <!--<dimen name="date_picker_indicator">4dp</dimen>-->
+    <!--<dimen name="morespace">32dp</dimen>-->
+    <!--<dimen name="morespaceMaterial">24dp</dimen>-->
+    <!--<dimen name="tab_text">10sp</dimen>-->
+    <!--<dimen name="cart_circle">14dp</dimen>-->
+    <!--<dimen name="button_bottom_height">56dp</dimen>-->
+    <!--<dimen name="feedback_progress_circle">40dp</dimen>-->
+    <!--<dimen name="feedback_progress_circle_half">18.5dp</dimen>-->
+    <!--<dimen name="feedback_progress_line_height">3dp</dimen>-->
+    <!--<dimen name="text_caption_smaller">8sp</dimen>-->
+    <!--<dimen name="toolbarHeight">60dp</dimen>-->
+    <!--<dimen name="offer_height">150dp</dimen>-->
+    <!--<dimen name="offer_vp_height">160dp</dimen>-->
+    <!--<dimen name="cartEditHeight">34dp</dimen>-->
+    <!--<dimen name="cartEditWidth">90dp</dimen>-->
+    <!--<dimen name="assuredWidth">60dp</dimen>-->
+    <!--<dimen name="assuredHeight">20dp</dimen>-->
+    <!--<dimen name="walkthrough_diameter">12dp</dimen>-->
+    <!--<dimen name="tab_space">8dp</dimen>-->
+    <!--<dimen name="tabspace">6dp</dimen>-->
+    <!--<dimen name="tabIconTextHeight">12dp</dimen>-->
+    <!--<dimen name="tabSize">25dp</dimen>-->
+    <!--<dimen name="marker_size_in_dp">45dp</dimen>-->
+    <!--<dimen name="marker_size_in_dp_double">60dp</dimen>-->
+    <!--<dimen name="textSizeGoKm">23sp</dimen>-->
+    <!--<dimen name="km_width">40dp</dimen>-->
+    <!--<dimen name="separatorDimenMobile">6dp</dimen>-->
+    <!--<item name="password_hide_image_alpha" format="float" type="dimen">0.4</item>-->
+    <!--<dimen name="medium_image_size">50dp</dimen>-->
+    <!--<dimen name="rounded_background_space">10dp</dimen>-->
+</resources>
